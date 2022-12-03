@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Candroid Voicemail is a voicemail application for Candroid for reading, sending, and receiving voicemails. It is designed to replace the Android Voicemail app.
